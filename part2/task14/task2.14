@@ -1,0 +1,6 @@
+str1 = input()
+if "f" not in str1 :
+    print()
+else:
+    print(str1.find("f"))
+

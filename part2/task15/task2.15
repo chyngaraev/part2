@@ -1,0 +1,9 @@
+give_numbers = int(input())
+for give_number in range(give_numbers) :
+    square = give_number ** 2
+    
+    if square <= 10:
+        print(square)
+        pass
+    else:
+        print()
